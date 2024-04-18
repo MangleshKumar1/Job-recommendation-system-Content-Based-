@@ -25,4 +25,4 @@ The goal is to group similar words together, focusing on their core meaning. Wil
 3. Removing stopwords:- Stopwords are the most frequently occurring words in a language that carry little or no meaning on their own. They include words like "the," "a," "an," "is," "of," "and," etc.
 
 # Streamlit Usage
-To make the job recommendation system easily accessible and user-friendly, we have developed a Streamlit application. Streamlit provides an intuitive web interface where users can upload their resumes. The application processes the user input, applies the machine learning models, and displays the top-recommended jobs based on the user's preferences and historical data.
+To make the job recommendation system easily accessible and user-friendly, we have developed a Streamlit application. Streamlit provides an intuitive web interface where users can search for keywords. The application processes the user input, applies the machine learning models, and displays the top-recommended jobs based on the user's preferences.
