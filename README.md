@@ -14,7 +14,7 @@ ntlk (Natural Language Toolkit) library
 streamlit
 
 # Machine Learning Techniques:
-To provide personalized job recommendations, we employ the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique. The "job_recommender-sytem.py" component plays a crucial role in this process.
+To provide personalized job recommendations, we employ the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique. The "job_recommender-sytem.ipynb" component plays a crucial role in this process.
 In this Natural Language Toolkit (NLTK) library helps in data cleaning process( done by removing stopwords and performing stemming). It utilizes the TF-IDF vectorizer from the scikit-learn library to transform job title and descriptions into numerical feature vectors. These vectors capture the importance of each word in the documents, enabling the system to find similar job opportunities based on user preferences. 
 
 # Processes done by using ntlk toolkit
