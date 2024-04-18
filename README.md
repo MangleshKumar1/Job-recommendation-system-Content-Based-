@@ -8,10 +8,10 @@ The goal of this project is to develop a job recommendation system that helps us
 Data of csv is used. It contains various fields but the most important for us are Job title and description.
 
 # libraries used 
-numpy for  linear algebra
-pandas for data processing, CSV file I/O (e.g. pd.read_csv)
-ntlk (Natural Language Toolkit) library
-streamlit
+*  numpy for  linear algebra
+*  pandas for data processing, CSV file I/O (e.g. pd.read_csv)
+*  ntlk (Natural Language Toolkit) library
+*  streamlit
 
 # Machine Learning Techniques:
 To provide personalized job recommendations, we employ the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique. The "job_recommender-sytem.ipynb" component plays a crucial role in this process.
