@@ -15,7 +15,7 @@ Data of csv is used. It contains various fields but the most important for us ar
 
 # Machine Learning Techniques:
 To provide personalized job recommendations, we employ the TF-IDF (Term Frequency-Inverse Document Frequency) vectorization technique. The "job_recommender-sytem.ipynb" component plays a crucial role in this process.
-In this Natural Language Toolkit (NLTK) library helps in data cleaning process( done by removing stopwords and performing stemming). It utilizes the TF-IDF vectorizer from the scikit-learn library to transform job title and descriptions into numerical feature vectors. These vectors capture the importance of each word in the documents, enabling the system to find similar job opportunities based on user preferences. 
+ It utilizes the TF-IDF vectorizer from the scikit-learn library to transform job title and descriptions into numerical feature vectors. These vectors capture the importance of each word in the documents, enabling the system to find similar job opportunities based on user preferences.  In this Natural Language Toolkit (NLTK) library helps in data cleaning process( done by removing stopwords and performing stemming).
 
 # Processes done by using ntlk toolkit
 1. Stemming aims to reduce words to their base or root form.
