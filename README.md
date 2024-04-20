@@ -8,7 +8,6 @@ The goal of this project is to develop a job recommendation system that helps us
 Data of csv is used. It contains various fields but the most important for us are Job title and description.
 
 # libraries used 
-*  numpy for  linear algebra
 *  pandas for data processing, CSV file I/O (e.g. pd.read_csv)
 *  ntlk (Natural Language Toolkit) library
 *  streamlit
